@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# car-maintenance-pwa
+A PWA to track car maintenance, built with React, Vite, pnpm and TypeScript.
+>>>>>>> 3ac148569e7a34041f0fc4f7d41234e83c6e953c
