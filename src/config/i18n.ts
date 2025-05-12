@@ -37,9 +37,9 @@ i18n
 
 		// react-i18next specific options
 		// reaplace it with react: {} in v22.0.0
-		// react: {
-		//   useSuspense: true, // Recommended for better UX with async translation loading
-		// }
+		react: {
+			useSuspense: true, // Recommended for better UX with async translation loading
+		},
 	});
 
 export default i18n;
